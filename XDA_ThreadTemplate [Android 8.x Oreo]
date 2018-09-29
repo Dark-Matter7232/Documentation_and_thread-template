@@ -1,4 +1,4 @@
-Title - [ROM][8.1.0_r43[OFFICIAL] LineageExtended ROM V2.0
+Title - [ROM][8.1.0[OFFICIAL] LineageExtended ROM V2.0
 
 
 [CODE]/*
@@ -24,50 +24,50 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 [img]http://i.imgur.com/Np7jfnY.png[/img]
 
 
-[B][SIZE="4"]#ExtendYourDevice Here are the Extensions! on top of AOSP! We are constantly trying to update the list. Our aim is not to provide all the features available on earth. We are not thinking of cherry-picking every feature out there. Our aim is to add important features that we think should be here and also what you think. For addition of more tweaks or features, head on to our G+ community and post the list of features that you want! Features with commits will be more helpful![/SIZE][/B]
+[B][SIZE="4"]#ExtendYourDevice Here are the Extensions! on top of LOS! We are constantly trying to update the list. Our aim is not to provide all the features available on earth. We are not thinking of cherry-picking every feature out there. Our aim is to add important features that we think should be here and also what you think. For addition of more tweaks or features, reply to the post and  Features with commits will be more helpful![/SIZE][/B]
 
 
 
 [CODE][B]
 
-Grid , Android GO recents
-Screen Off animation
-Full micro g support
-11 Lockscreen clock & 11 date Styles ,
-Revamped Settings UI
-Charging animation on Lockscreen
-QS icon tint
-HeadsUp customizations
-Edge Gestures
-Recents icon Pack ,
-3 finger swipe gesture to ss
-Left clock ,
-Black theme ,
-Pixel Navbar icons
-Full Rootless Substratum Support
-Center Clock (System > Date & Time > Advanced)
-Battery icon customization (Customization > Miscellaneous)
-Recents clear all with FAB location (Customization > Miscellaneous)
-QS Customization, includes transparency, rows and columns, brightness slider position and hide titles (Customization > Quick Settings)
-Auto face unlock toggle (Customization > Lock Screen)
-Lockscreen quick unlock control (Customization > Lock Screen)
-Battery charging current info (Settings > Battery)
-Option to hide lockscreen clock, date or alarm (Customization > Lock Screen)
-Fingerprint success vibration on off toggle ( Customization > Miscellaneous)
-Unlock with fingerprint after reboot without entering PIN ( Customization > Miscellaneous)
-Dismiss notification with fingerprint swipe (System > Gestures > Swipe fingerprint for notifications)
-Ambient music ticker (Customization > Lock Screen)
-Reset battery stats 
-Android P system animation 
-LTE Tile
-Default USB configuration 
-Roaming icon toggle 
-emergency mode Removed from power menu 
-Mobile data disable without warning 
-New Volte icon
-Search Bar in Apps, notification and battery optimization screen 
+-Grid , Android GO recents
+-Screen Off animation
+-Full micro g support
+-11 Lockscreen clock & 11 date Styles ,
+-Revamped Settings UI
+-Charging animation on Lockscreen
+-QS icon tint
+-HeadsUp customizations
+-Edge Gestures
+-Recents icon Pack ,
+-3 finger swipe gesture to ss
+-Left clock ,
+-Black theme ,
+-Pixel Navbar icons
+-Full Rootless Substratum Support/OMS
+-Center Clock (System > Date & Time > Advanced)
+-Battery icon customization (Customization > Miscellaneous)
+-Recents clear all with FAB location (Customization > Miscellaneous)
+-QS Customization, includes transparency, rows and columns, brightness slider position and hide titles (Customization > Quick Settings)
+-Auto face unlock toggle (Customization > Lock Screen)
+-Lockscreen quick unlock control (Customization > Lock Screen)
+-Battery charging current info (Settings > Battery)
+-Option to hide lockscreen clock, date or alarm (Customization > Lock Screen)
+-Fingerprint success vibration on off toggle ( Customization > Miscellaneous)
+-Unlock with fingerprint after reboot without entering -PIN ( Customization > Miscellaneous)
+-Dismiss notification with fingerprint swipe (System > Gestures > Swipe fingerprint for notifications)
+-Ambient music ticker (Customization > Lock Screen)
+-Reset battery stats 
+-Android P system animation 
+-LTE Tile
+-Default USB configuration 
+-Roaming icon toggle 
+-emergency mode Removed from power menu 
+-Mobile data disable without warning 
+-New Volte icon
+-Search Bar in Apps, notification and battery -optimization screen 
 
-And many more coming in future! Many extensions are added in each update so we miss out adding new extensions to this list. So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
+And many more coming in future! Many extensions are added in each update so we miss out adding new extensions to this list.[/B][/CODE]
 
 
 [img]http://i.imgur.com/47WEHUl.png[/img]
